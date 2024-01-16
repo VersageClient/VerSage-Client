@@ -1,0 +1,16 @@
+{
+  "name": "cyka",
+  "version": "1.0.0",
+  "description": "Cyka Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "random-key": "^0.3.2"
+  }
+}
